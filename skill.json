@@ -1,0 +1,17 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "genpark-marketing-banner-agent-skill",
+    "outputs":  {
+                    "result_val":  {
+                                       "type":  "string"
+                                   }
+                },
+    "description":  "GenPark seasonal promo web page banner matching scheduler skill.",
+    "inputs":  {
+                   "input_val":  {
+                                     "type":  "string"
+                                 }
+               },
+    "author":  "alphaparkinc",
+    "prompt":  "Coordinate genpark-marketing-banner-agent-skill operations using the input configurations."
+}
