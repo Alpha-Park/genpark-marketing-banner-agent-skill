@@ -1,3 +1,3 @@
-﻿# genpark-marketing-banner-agent-skill
+# genpark-marketing-banner-agent-skill
 
-Ready to use SDK library for genpark-marketing-banner-agent-skill.
+Production-ready agent skill for Promotions marketing banner layout.
